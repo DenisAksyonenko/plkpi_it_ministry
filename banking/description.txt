@@ -1,0 +1,2 @@
+this project is a system of logging all financial operations of Student Council of PL NTUU KPI
+it consists of two parts - data management and PDF-report creation
